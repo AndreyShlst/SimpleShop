@@ -3,3 +3,4 @@
 	echo "Hello Git2";
 	echo "Hello new_branch"
 	echo "This is branch_master"
+	echo "This is GitHub commit"
