@@ -7,7 +7,7 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<title>Каталог товаров</title>
+	<title>Каталог книг</title>
 </head>
 <body>
 <p>Товаров в <a href="basket.php">корзине</a>: <?= $count?></p>
